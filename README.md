@@ -13,4 +13,4 @@ It is robot which detect the available of course and send notification to chat r
 * You need to download the website-driver you use. 
 * **Notice: should check the version of your web and the path of web-driver** 
 
-**It is illegal to select course by robot.Don't try the law**
+**It is illegal to select course by robot. Don't try the law**
